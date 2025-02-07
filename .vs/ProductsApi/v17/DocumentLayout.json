@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp_\\ProductsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB94925-AF86-4D34-919F-0BB63A0759AE}|ProductsApi\\ProductsApi.csproj|c:\\csharp_\\productsapi\\productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB94925-AF86-4D34-919F-0BB63A0759AE}|ProductsApi\\ProductsApi.csproj|solutionrelative:productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB94925-AF86-4D34-919F-0BB63A0759AE}|ProductsApi\\ProductsApi.csproj|c:\\csharp_\\productsapi\\productsapi\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB94925-AF86-4D34-919F-0BB63A0759AE}|ProductsApi\\ProductsApi.csproj|solutionrelative:productsapi\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "C:\\Csharp_\\ProductsApi\\ProductsApi\\Dtos\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "ProductsApi\\Dtos\\ProductResponseDto.cs",
+              "ToolTip": "C:\\Csharp_\\ProductsApi\\ProductsApi\\Dtos\\ProductResponseDto.cs",
+              "RelativeToolTip": "ProductsApi\\Dtos\\ProductResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:11:14.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Csharp_\\ProductsApi\\ProductsApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Csharp_\\ProductsApi\\ProductsApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwIMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:43:00.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
